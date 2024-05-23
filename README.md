@@ -51,6 +51,15 @@
 
 
 
+2.𝑷𝙧𝒐𝙙𝒖𝙘𝒕 𝑫𝙚𝒕𝙖𝒊𝙡: This page provided an in-depth and interactive look at the relationship between the products of Adventure Works and their respective revenue, orders, profit, return percentage and 
+                  returns.
+
+
+
+
+
+
+
 
 
 
