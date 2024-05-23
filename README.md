@@ -35,13 +35,20 @@
 
 
 ➡️𝑫𝑨𝑿 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒔:Now that I had established my table relationships, I could begin utilizing some DAX functions to analyze the data set. I started by creating basic KPI’s such as Revenue, Profit, and 
-                  Total Orders which would help me to calculate more advanced metrics later on. Some of the DAX functions I used the most include:
+                  Total Orders which would help me to calculate more advanced metrics later on.
 
-                  ITERATOR FUNCTIONS (SUMX): These are formulas which evaluate an expression based on each row and then aggregate the results.
-                  CALCULATE(): acts as an overriding filter to give you a new filter context. Was incredibly useful for establishing Previous Months Orders, Revenue, Profit, Returns and Overall Average 
-                               Price
-                  RELATED(): This function allows you to pull data from different tables as long as there is an established many to one relationship.
-                  Date Functions(DateAdd, DATESINPERIOD): These date functions were very helpful when establishing a 90 Day Rolling Profit as well as the Previous Months Order, Profit, Revenue and Returns.
+
+
+
+
+𝑫𝒂𝒔𝒉𝒃𝒐𝒓𝒅𝒔:
+
+1.𝙀𝒙𝙚𝒄𝙪𝒕𝙞𝒗𝙚 𝘿𝒂𝙨𝒉𝙗𝒐𝙖𝒓𝙙:Home to company wide KPI’s, Trending Revenue, Orders as well as several lists of the top selling products.
+
+
+
+
+
 
 
 
