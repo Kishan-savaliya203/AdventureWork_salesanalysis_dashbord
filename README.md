@@ -46,6 +46,9 @@
 1.𝙀𝒙𝙚𝒄𝙪𝒕𝙞𝒗𝙚 𝘿𝒂𝙨𝒉𝙗𝒐𝙖𝒓𝙙:Home to company wide KPI’s, Trending Revenue, Orders as well as several lists of the top selling products.
 
 
+![Screenshot 2024-05-23 230559](https://github.com/Kishan-savaliya203/AdventureWork_salesanalysis_dashbord/assets/167234170/67f3b699-455b-461b-bfe4-bcb74cbcaafe)
+
+
 
 
 
