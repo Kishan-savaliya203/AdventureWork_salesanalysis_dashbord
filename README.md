@@ -71,7 +71,16 @@
 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔:
 
 
+➡️ From year 2020,2021,2022 combined 
+         -Total revenue:₹ 24.9M
+         -Total profit:₹ 10.5M
+         -Total orders:₹ 25.2K
+         -Return rate: 2.2%
+
+➡️ Most orders coming from accessories category followed by bikes category.
+
 ➡️
+
 
 
 
