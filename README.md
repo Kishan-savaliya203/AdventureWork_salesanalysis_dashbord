@@ -1,11 +1,11 @@
-# AdventureWork_salesanalysis_dashbord
-𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝒐𝒗𝒆𝒓𝒗𝒊𝒆𝒘:
+📟 AdventureWork_salesanalysis_dashbord
+📃𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝒐𝒗𝒆𝒓𝒗𝒊𝒆𝒘:
 
 ➡️I had the opportunity to complete a project with Adventure Works Data set. Adventure Works is a bike manufacturer and seller and in this project I analyze their sales and returns data using Microsoft 
    Power BI Desktop.This was an end to end project beginning with importing and data cleaning and ending with the creation of visuals and optimization of those visuals.
 
 
-𝑫𝒂𝒕𝒂 𝒔𝒐𝒖𝒓𝒄𝒆𝒔:
+📃𝑫𝒂𝒕𝒂 𝒔𝒐𝒖𝒓𝒄𝒆𝒔:
 
 ➡️The raw data set given in .csv format by ADVENTUREWORKS and was imported to Power BI directly. A total of 8 files were imported, each being their own table.
 
@@ -15,7 +15,7 @@
 ➡️Microsoft power bi
 
 
-𝑫𝒂𝒕𝒂 𝒑𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏:
+📃𝑫𝒂𝒕𝒂 𝒑𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏:
 
 ➡️𝘿𝒂𝙩𝒂 𝒄𝙡𝒆𝙖𝒏𝙞𝒏𝙜: from row data I was able to get a general overview of the data set and saw that I would primarily be working with Sales and Returns data then began cleaning the data by ensuring columns 
                   were titled appropriately, they were in their correct data types, looking for missing data (which there was none) and began looking for what relationships I might be able to create 
@@ -41,7 +41,7 @@
 
 
 
-𝑫𝒂𝒔𝒉𝒃𝒐𝒓𝒅𝒔:
+📃𝑫𝒂𝒔𝒉𝒃𝒐𝒓𝒅𝒔:
 
 1.𝙀𝒙𝙚𝒄𝙪𝒕𝙞𝒗𝙚 𝘿𝒂𝙨𝒉𝙗𝒐𝙖𝒓𝙙:Home to company wide KPI’s, Trending Revenue, Orders as well as several lists of the top selling products.
 
@@ -68,7 +68,7 @@
 
 
 
-𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔:
+📃𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔:
 
 
 ➡️ From year 2020,2021,2022 combined 
@@ -77,9 +77,23 @@
          -Total orders:₹ 25.2K
          -Return rate: 2.2%
 
-➡️ Most orders coming from accessories category followed by bikes category.
+➡️ Revenue is incresing linearly with time.
 
-➡️
+➡️ Most orders coming from 'Accessories category' followed by 'Bikes category'.
+
+➡️ Most ordered product type is 'Tires and Tubes' and most returned product type is 'Shorts'.
+
+➡️ Average revenue generated per customer is ₹ 1.4K.
+
+➡️ High number of the orders coming from 'Average income level' followed by 'Low income level'.
+
+➡️ By bracking orders by occupation then we see that 'Profetionals' are on top followed by 'Skilled Manual'.
+
+➡️ Our top  customer by revenue is Mr.Maurice shan.
+
+
+
+
 
 
 
